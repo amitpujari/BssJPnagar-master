@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    tools:context="squareandcube.bssjpnagar.TeachersActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:id="@+id/teacher1">
+
+        <TextView
+            android:id="@+id/principal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Mira Kumari"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_weight="1"/>
+        <TextView
+            android:id="@+id/HeadMaster"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Principal"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#fff"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:id="@+id/teacher2">
+
+        <TextView
+            android:id="@+id/principa2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Vidya Sharma"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_weight="1"/>
+        <TextView
+            android:id="@+id/HeadMaster2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Vice Principal"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#fff"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:id="@+id/teacher3">
+
+        <TextView
+            android:id="@+id/principa3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Shruthi Tiwari"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_weight="1"/>
+        <TextView
+            android:id="@+id/HeadMaster3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Asst. Teacher"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#fff"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:id="@+id/teacher4">
+
+        <TextView
+            android:id="@+id/principa4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Lakshmi"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_weight="1"/>
+        <TextView
+            android:id="@+id/HeadMaster4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Asst. Teacher"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#fff"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:id="@+id/teacher5">
+
+        <TextView
+            android:id="@+id/principa5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Swetha Chaudhury"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_weight="1"/>
+        <TextView
+            android:id="@+id/HeadMaste5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Asst. Teacher"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#fff"/>
+</LinearLayout>

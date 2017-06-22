@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="squareandcube.bssjpnagar.EnglishActivity"
+    android:background="@color/colorPrimary">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MATH"
+            android:textAlignment="center"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:textSize="22sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Syllabus :"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Class 1 :"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="        April &amp; May Lesson 1 Shapes and space
+            Lesson 2 Numbers from one to nine
+            June &amp; July Lesson 3 Addition
+            Lesson 4 Subtraction
+            August Lesson 5 Number from ten to twenty
+            Lesson 6 Time
+            September Lesson 7 Measurement
+            October Lesson 8 Numbers from 21 to 50
+            November Lesson 9 Data Handling
+            Lesson 10 Patterns
+            December Lesson 11 Numbers from 51 to 100
+            January Lesson 12 Money
+            February Lesson 13 How Many
+            March Revision"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Class 2 :"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Show the objects, wooden
+            blocks and cut out of
+            different shapes.
+            — Write the objects having
+            rough and smooth surfaces.
+            — Show the sliding nature of
+            pencil box ,scale etc. and
+            rolling nature of coin, bangle
+            etc.
+            — Narrate story of Wise Gtand
+            Mother.
+            — Make a tall tower of books.
+            — Find out the situations in
+            which things roll.
+            — Provide a heavy bag and
+            ask the children to carry it
+            and then side it.
+            — Ask their observations."
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Class 3 :"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="*To recite the poem
+            with appropriate
+            actions
+            *To appreciate,
+            understand &amp;
+            enjoy
+            *To emphasize on
+            spoken part –
+            proper way of
+            wishing
+            *To drill of
+            language items:
+            Nouns, antonyms,
+            synonyms
+            *Underlining the
+            nouns from the
+            passage
+            *World building
+            game
+            *To draw pictures
+            of ‘day’ &amp; night’
+            and to ask the
+            children to write
+            two words each
+            from each picture
+            *Write a paragraph
+            on ‘Your favourite
+            thing in nature’ :"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Class 4 :"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="*Children to
+            recite the poem
+            with proper
+            pronunciation,
+            gesture and
+            Voice
+            modulation
+            *To pick out
+            rhyming words
+            from the poem
+            *To list out the"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Class 5 :"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="*Children to
+            recite the poem
+            with proper
+            intonation
+            *Children to
+            recite similar
+            poems
+            *To pick rhyming
+            words from the
+            poem
+            *List the different
+            activities we
+            enjoy doing in
+            different seasons
+            *To underline the
+            adjectives in a
+            given passage"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

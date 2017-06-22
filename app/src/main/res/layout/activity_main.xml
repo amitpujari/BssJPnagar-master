@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:orientation="vertical"
+           android:weightSum="4">
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:orientation="horizontal"
+               android:layout_weight="1"
+               android:weightSum="2">
+
+               <LinearLayout
+                   android:id="@+id/dash_class"
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:orientation="horizontal"
+                   android:layout_weight="1"
+                   android:weightSum="2">
+
+                   <ImageView
+                       android:layout_width="120dp"
+                       android:layout_height="match_parent"
+                       android:layout_weight="1"
+                       android:layout_marginLeft="10dp"
+                       android:tint="#fff"
+                       android:src="@mipmap/ic_class_black"/>
+
+                   <TextView
+                       android:layout_width="match_parent"
+                       android:layout_height="match_parent"
+                       android:layout_weight="1"
+                       android:text="Classes"
+                       android:textAlignment="center"
+                       android:textSize="20sp"
+                       android:textStyle="bold"
+                       android:textColor="#fff"
+                       android:gravity="center_vertical"
+                       tools:ignore="HardcodedText" />
+
+               </LinearLayout>
+
+               <View
+                   android:layout_width="1dp"
+                   android:layout_height="match_parent"
+                   android:background="#fff"/>
+
+               <LinearLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:orientation="horizontal"
+                   android:layout_weight="1"
+                   android:weightSum="2">
+
+                   <LinearLayout
+                       android:id="@+id/dash_subject"
+                       android:layout_width="match_parent"
+                       android:layout_height="match_parent"
+                       android:layout_weight="1"
+                       android:weightSum="2">
+
+                       <ImageView
+                           android:layout_width="120dp"
+                           android:layout_height="match_parent"
+                           android:src="@mipmap/ic_library_books_black"
+                           android:layout_marginLeft="10dp"
+                           android:layout_weight="1"
+                           android:tint="#fff"/>
+
+                       <TextView
+                           android:layout_width="match_parent"
+                           android:layout_height="match_parent"
+                           android:text="Subjects Offered"
+                           android:textAlignment="center"
+                           android:layout_weight="1"
+                           android:textStyle="bold"
+                           android:textSize="20sp"
+                           android:textColor="#fff"
+                           android:gravity="center_vertical"/>
+
+                   </LinearLayout>
+
+               </LinearLayout>
+
+           </LinearLayout>
+
+           <View
+               android:layout_width="match_parent"
+               android:layout_height="1dp"
+               android:background="#fff"/>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:orientation="horizontal"
+               android:layout_weight="1"
+               android:weightSum="2">
+
+               <LinearLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:orientation="horizontal"
+                   android:layout_weight="1"
+                   android:weightSum="2">
+
+                   <LinearLayout
+                       android:id="@+id/dash_students"
+                       android:layout_width="match_parent"
+                       android:layout_height="match_parent"
+                       android:layout_weight="1"
+                       android:weightSum="2">
+
+                       <ImageView
+                           android:id="@+id/imageView8"
+                           android:layout_width="120dp"
+                           android:layout_height="match_parent"
+                           android:layout_weight="1"
+                           android:layout_marginLeft="10dp"
+                           android:tint="#fff"
+                           android:src="@mipmap/ic_child_care_black" />
+
+                       <TextView
+                           android:layout_width="match_parent"
+                           android:layout_height="match_parent"
+                           android:text="Students"
+                           android:textAlignment="center"
+                           android:layout_weight="1"
+                           android:textStyle="bold"
+                           android:textSize="20sp"
+                           android:textColor="#fff"
+                           android:gravity="center_vertical"/>
+
+                   </LinearLayout>
+
+
+               </LinearLayout>
+               <View
+                   android:layout_width="1dp"
+                   android:layout_height="match_parent"
+                   android:background="#fff"/>
+
+               <LinearLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:orientation="horizontal"
+                   android:layout_weight="1"
+                   android:weightSum="2">
+                   <LinearLayout
+                       android:id="@+id/dashteachers"
+                       android:layout_width="match_parent"
+                       android:layout_height="match_parent"
+                       android:layout_weight="1"
+                       android:weightSum="2">
+
+                       <ImageView
+                           android:id="@+id/imageView10"
+                           android:layout_width="120dp"
+                           android:layout_height="match_parent"
+                           android:layout_marginLeft="10dp"
+                           android:layout_weight="1"
+                           android:tint="#fff"
+                           android:src="@mipmap/ic_people_black" />
+
+                       <TextView
+                           android:layout_width="match_parent"
+                           android:layout_height="match_parent"
+                           android:text="Teachers"
+                           android:textAlignment="center"
+                           android:layout_weight="1"
+                           android:textStyle="bold"
+                           android:textSize="20sp"
+                           android:textColor="#fff"
+                           android:gravity="center_vertical"/>
+
+                   </LinearLayout>
+
+               </LinearLayout>
+
+           </LinearLayout>
+
+           <View
+               android:layout_width="match_parent"
+               android:layout_height="1dp"
+               android:background="#fff"/>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:orientation="horizontal"
+               android:layout_weight="1"
+               android:weightSum="2">
+
+               <LinearLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:orientation="horizontal"
+                   android:layout_weight="1"
+                   android:weightSum="2">
+
+                   <LinearLayout
+                       android:id="@+id/dash_extra"
+                       android:layout_width="match_parent"
+                       android:layout_height="match_parent"
+                       android:layout_weight="1"
+                       android:weightSum="2">
+
+                       <ImageView
+                           android:id="@+id/imageView9"
+                           android:layout_width="120dp"
+                           android:layout_height="match_parent"
+                           android:layout_weight="1"
+                           android:layout_marginLeft="10dp"
+                           android:tint="#fff"
+                           android:src="@mipmap/ic_mic_black" />
+
+                       <TextView
+                           android:layout_width="match_parent"
+                           android:layout_height="match_parent"
+                           android:text="Extra Curricular Activities"
+                           android:textAlignment="center"
+                           android:layout_weight="1"
+                           android:textStyle="bold"
+                           android:textColor="#fff"
+                           android:textSize="20sp"
+                           android:gravity="center_vertical"/>
+
+                   </LinearLayout>
+
+               </LinearLayout>
+
+               <View
+                   android:layout_width="1dp"
+                   android:layout_height="match_parent"
+                   android:background="#fff"/>
+
+               <LinearLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:orientation="horizontal"
+                   android:layout_weight="1"
+                   android:weightSum="2">
+                   <LinearLayout
+                       android:id="@+id/dash_gallery"
+                       android:layout_width="match_parent"
+                       android:layout_height="match_parent"
+                       android:layout_weight="1"
+                       android:weightSum="2">
+
+                       <ImageView
+                           android:layout_width="120dp"
+                           android:layout_height="match_parent"
+                           android:src="@mipmap/ic_picture_in_picture_black"
+                           android:layout_marginLeft="10dp"
+                           android:tint="#fff"
+                           android:layout_weight="1"/>
+
+                       <TextView
+                           android:layout_width="match_parent"
+                           android:layout_height="match_parent"
+                           android:text="Gallary"
+                           android:textAlignment="center"
+                           android:layout_weight="1"
+                           android:textStyle="bold"
+                           android:textSize="20sp"
+                           android:textColor="#fff"
+                           android:gravity="center_vertical"/>
+
+                   </LinearLayout>
+
+               </LinearLayout>
+
+           </LinearLayout>
+
+           <View
+               android:layout_width="match_parent"
+               android:layout_height="1dp"
+               android:background="#fff"/>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:orientation="horizontal"
+               android:layout_weight="1"
+               android:weightSum="2">
+
+               <LinearLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:orientation="horizontal"
+                   android:layout_weight="1"
+                   android:weightSum="2">
+                   <LinearLayout
+                       android:id="@+id/dash_about"
+                       android:layout_width="match_parent"
+                       android:layout_height="match_parent"
+                       android:layout_weight="1"
+                       android:weightSum="2">
+
+                       <ImageView
+                           android:layout_width="120dp"
+                           android:layout_height="match_parent"
+                           android:src="@mipmap/ic_info_outline_white"
+                           android:layout_marginLeft="10dp"
+                           android:layout_weight="1"/>
+
+                       <TextView
+                           android:layout_width="match_parent"
+                           android:layout_height="match_parent"
+                           android:text="About BSS"
+                           android:textAlignment="center"
+                           android:layout_weight="1"
+                           android:textStyle="bold"
+                           android:textSize="20sp"
+                           android:textColor="#fff"
+                           android:gravity="center_vertical"/>
+
+                   </LinearLayout>
+
+               </LinearLayout>
+               <View
+                   android:layout_width="1dp"
+                   android:layout_height="match_parent"
+                   android:background="#fff"/>
+
+               <LinearLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:orientation="horizontal"
+                   android:layout_weight="1"
+                   android:weightSum="2">
+
+                   <LinearLayout
+                       android:id="@+id/dash_admission"
+                       android:layout_width="match_parent"
+                       android:layout_height="match_parent"
+                       android:layout_weight="1"
+                       android:weightSum="2">
+
+                       <ImageView
+                           android:layout_width="120dp"
+                           android:layout_height="match_parent"
+                           android:src="@mipmap/ic_admission"
+                           android:layout_marginLeft="10dp"
+                           android:layout_weight="1"/>
+
+                       <TextView
+                           android:layout_width="match_parent"
+                           android:layout_height="match_parent"
+                           android:text="Admission Cell"
+                           android:textAlignment="center"
+                           android:layout_weight="1"
+                           android:textStyle="bold"
+                           android:textSize="20sp"
+                           android:textColor="#fff"
+                           android:gravity="center_vertical"/>
+
+                   </LinearLayout>
+
+               </LinearLayout>
+
+           </LinearLayout>
+       </LinearLayout>
+
+</RelativeLayout>

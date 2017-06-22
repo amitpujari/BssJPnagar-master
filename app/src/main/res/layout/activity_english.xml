@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="squareandcube.bssjpnagar.EnglishActivity"
+    android:background="@color/colorPrimary">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="English"
+            android:textAlignment="center"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:textSize="22sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Syllabus :"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Class 1 :"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="           CBSE Class 1 English Syllabus 2012-13
+            April &amp; May unit 1 A Happy Child
+            Three Little Pigs
+            June &amp; July unit 2 After a Bath,
+            The Bubble the Straw and the Shoe.
+            August unit 3 One Little Kitten,
+            Laalu and Peelu,
+            Unit 4 Once I Saw a little Bird.
+            September Unit 5 Mittu and the Yellow Mango,
+            Merry Go Round , Circle
+            October Unit 6 If I were an Apple,
+            Our Tree
+            November Unit 7 A Kite
+            Sundari
+            December Unit 8 A Little Turtle,
+            The Tiger and the Mosquito
+            January Unit 9 Clouds,
+            Anandi’s Rainbow
+            February Unit 10 Flying Man
+            The tailor and his Friend
+            March Revision :"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Class 2 :"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1.        Listening and reciting of
+            poem wearing face masks of
+            animals followed by recording
+            done by the teachers.
+            2. WHO AM I ?
+            Children act out the given
+            clues about animal
+            movements while the others
+            identify.
+            ( TAL –Slides on animal
+            movements)
+            Play the Silence game by
+            listening to sounds and
+            recognizing it.
+            Oral comprehension -based
+            on the poem.
+            Drawing an animal / bird and
+            marking its parts.
+            Using can/ cannot to frame:"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Class 3 :"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="*To recite the poem
+            with appropriate
+            actions
+            *To appreciate,
+            understand &amp;
+            enjoy
+            *To emphasize on
+            spoken part –
+            proper way of
+            wishing
+            *To drill of
+            language items:
+            Nouns, antonyms,
+            synonyms
+            *Underlining the
+            nouns from the
+            passage
+            *World building
+            game
+            *To draw pictures
+            of ‘day’ &amp; night’
+            and to ask the
+            children to write
+            two words each
+            from each picture
+            *Write a paragraph
+            on ‘Your favourite
+            thing in nature’ :"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Class 4 :"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="*Children to
+            recite the poem
+            with proper
+            pronunciation,
+            gesture and
+            Voice
+            modulation
+            *To pick out
+            rhyming words
+            from the poem
+            *To list out the"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Class 5 :"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="*Children to
+            recite the poem
+            with proper
+            intonation
+            *Children to
+            recite similar
+            poems
+            *To pick rhyming
+            words from the
+            poem
+            *List the different
+            activities we
+            enjoy doing in
+            different seasons
+            *To underline the
+            adjectives in a
+            given passage"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

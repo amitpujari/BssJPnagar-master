@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="squareandcube.bssjpnagar">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ClassActivity" />
+        <activity android:name=".SubjectsActivity" />
+        <activity android:name=".StudentsActivity" />
+        <activity android:name=".StudentsProfileActivity" />
+        <activity android:name=".TeachersActivity" />
+        <activity android:name=".TeacherProfileActivity" />
+        <activity android:name=".ExtraCurricularActivity" />
+        <activity android:name=".GalleryActivity" />
+        <activity android:name=".AdmissionActivity" />
+        <activity android:name=".EnglishActivity" />
+        <activity android:name=".HindiActivity" />
+        <activity android:name=".MathActivity" />
+        <activity android:name=".ScienceActivity" />
+        <activity android:name=".SocialScienceActivity" />
+        <activity android:name=".ArunActivity" />
+        <activity android:name=".StudentTwoActivity" />
+        <activity android:name=".StudentThreeActivity" />
+        <activity android:name=".StudentFourActivity" />
+        <activity android:name=".StudentFiveActivity" />
+        <activity android:name=".TeacherOneActivity" />
+        <activity android:name=".TeacherTwoActivity" />
+        <activity android:name=".TeacherThreeActivity" />
+        <activity android:name=".TeacherFourActivity" />
+        <activity android:name=".TeacherFiveActivity" />
+        <activity android:name=".AboutActivity"></activity>
+    </application>
+
+</manifest>

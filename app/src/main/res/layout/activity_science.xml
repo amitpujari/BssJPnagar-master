@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="squareandcube.bssjpnagar.EnglishActivity"
+    android:background="@color/colorPrimary">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SCIENCE"
+            android:textAlignment="center"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:textSize="22sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Syllabus :"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Class 1 :"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="       List of Chapters in Science Syllabus:
+            1. Plant Life
+            2. Animal Life
+            3. Our Amazing Body!
+            4. Our Basic Needs
+            5. Living and Non-living
+            6. What’s in the Sky?"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Class 2 :"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="List of chapters in Science Syllabus
+            1 Plants Life
+            2 Animals Life
+            3 Human Body
+            4 Our Environment
+            5 Shadows"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Class 3 :"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="*To recite the poem
+            with appropriate
+            actions
+            *To appreciate,
+            understand &amp;
+            enjoy
+            *To emphasize on
+            spoken part –
+            proper way of
+            wishing
+            *To drill of
+            language items:
+            Nouns, antonyms,
+            synonyms
+            *Underlining the
+            nouns from the
+            passage
+            *World building
+            game
+            *To draw pictures
+            of ‘day’ &amp; night’
+            and to ask the
+            children to write
+            two words each
+            from each picture
+            *Write a paragraph
+            on ‘Your favourite
+            thing in nature’ :"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Class 4 :"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="*Children to
+            recite the poem
+            with proper
+            pronunciation,
+            gesture and
+            Voice
+            modulation
+            *To pick out
+            rhyming words
+            from the poem
+            *To list out the"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Class 5 :"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="*Children to
+            recite the poem
+            with proper
+            intonation
+            *Children to
+            recite similar
+            poems
+            *To pick rhyming
+            words from the
+            poem
+            *List the different
+            activities we
+            enjoy doing in
+            different seasons
+            *To underline the
+            adjectives in a
+            given passage"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"/>
+
+    </LinearLayout>
+
+</ScrollView>
